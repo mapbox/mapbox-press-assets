@@ -1,2 +1,0 @@
-MapBox Press Assets
--------------------

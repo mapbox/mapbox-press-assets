@@ -1,0 +1,46 @@
+##MapBox photo captions
+
+**MapBox-ElectionMaps.jpg:**  
+USA Today and Washington Post Election 2012 maps designed by MapBox
+
+**MapBox-Evernote.jpg:**  
+The team at Evernote used MapBox Streets to create a complementary street level map for the detailed views in their desktop app. The result is an impressive map with a design that blends in perfectly with the rest of the app.
+
+**MapBox-FinancialTimes.jpg:**  
+Financial Times Syria Feature With MapBox Branded Maps 
+
+**MapBox-Foursquare.jpg:**  
+foursquare relaunched all of its web maps using MapBox Streets global street-level map, which is based on OpenStreetMap data. This is a huge endorsement of the value of open data and shows the fantastic growth potential of the OpenStreetMap community.
+ 
+**MapBox-Team1.jpg:**  
+The MapBox garage, in Washington, DC.
+
+**MapBox-Team2.jpg:** 
+Eric Gunderson and Dane Springmeyer using the bar in the MapBox garage as a standup desk.
+
+**MapBox-Uber.jpg:**  
+MapBox in action for Uber, the mobile app that connects a customer with a taxi driver at the tap of a button.
+ 
+**MapBoxMobile-BassProShops.jpg:**   
+When national outdoor outfitter Bass Pro Shops wanted to let users of MyGuide go off the grid, they used MapBox to allow them to take their backcountry terrain maps with them. MyGuide uses both custom terrain maps as well as the MapBox iOS SDK to allow unlimited offline map use.  
+
+**MapBoxMobile-MapOfTheDead.jpg:**   
+Zombie apocalypse survival is the game; MapBox is the enabling technology. Through a combination of highly custom maps that fit the game world's theme in immaculate detail and the openness of the MapBox iOS SDK allowing tailoring of UI behavior, Map of the Dead is a showcase of the complete flexibility available to location-based games with MapBox. 
+ 
+**MapBoxMobile-NatGeoCityGuides.jpg:**   
+National Geographic used MapBox to create a gorgeous custom style to the maps in this iOS travel app. The designers of the app envisioned a look that literally would not have been possible without MapBox. 
+
+**MapBoxSatellite-BrukkarosMountain.jpg:**   
+This is Brukkaros Mountain, in Namibia, as seen by the USGS’s Landsat 8 satellite. About 80 million years ago, before the extinction of the dinosaurs, Brukkaros exploded much like Mount St Helens did. Only a dry climate like southwest Africa’s could it have survived so long without eroding away. In the late 1920s, the Smithsonian Institution and the National Geographic Society operated the Brukkaros Solar Observatory on its southern rim—one of the first attempts to precisely measure the sun’s radiation over time. Across the northeast corner of this view you can see the edge of the Kalahari desert’s plateau.
+ 
+**MapBoxSatellite-ClingmansDome:**   
+Satellite view of Clingmans Dome.
+
+**MapBoxSatellite-Glaciers.jpg:**  
+This is the confluence of the Fisher and Mellor glaciers in Antarctica. The region was only mapped in detail in the 1950s, and remains one of the most remote places which scientists still regularly visit. The blue areas are bare ice, where wind has scoured the glacier clean of snow. Researchers sometimes find meteorites lying on the surface in these areas, brought to the surface by the flow of the glaciers.
+
+**MapBoxStreets-Outdoors.jpg:**   
+MapBox Streets Outdoors.
+
+**MapBoxStreets-SanFrancisco.jpg:**   
+View of San Francisco by MapBox Streets.
