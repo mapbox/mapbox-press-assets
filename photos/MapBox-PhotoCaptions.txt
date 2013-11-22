@@ -1,5 +1,8 @@
 MapBox photo captions
 
+MapBox-Earth.jpg:
+MapBox cracked the 3D globe software market wide open with the release of MapBox Earth, a free and open source iOS app combining open source 3D map rendering libraries with stunning MapBox Satellite imagery.
+
 MapBox-ElectionMaps.jpg:
 USA Today and Washington Post Election 2012 maps designed by MapBox
 
@@ -12,8 +15,14 @@ Financial Times Syria Feature With MapBox Branded Maps 
 MapBox-Foursquare.jpg:
 foursquare relaunched all of its web maps using MapBox Streets global street-level map, which is based on OpenStreetMap data. This is a huge endorsement of the value of open data and shows the fantastic growth potential of the OpenStreetMap community.
 
-MapBox-GitHub.png
+MapBox-GitHub.png:
 GitHub goes MapBox with Custom Marker Colors.
+
+MapBox-Graphic.png:
+Iconic MapBox graphic of a satellite orbiting Earth.
+
+MapBox-Pinterest.jpg:
+Place Pins combine the beautiful imagery of a travel magazine with the utility of an interactive map that you can share with friends. MapBox's vector tiles let Pinterest design a one-of-a-kind world map that can scale to unlimited traffic yet continuously stay up-to-date with OpenStreetMap.
  
 MapBox-Team1.jpg: 
 The MapBox garage, in Washington, DC.
@@ -36,7 +45,7 @@ MapBox has begun a major update to MapBox Terrain. We are designing MapBox Outdo
 MapBoxSatellite-BrukkarosMountain.jpg: 
 This is Brukkaros Mountain, in Namibia, as seen by the USGS’s Landsat 8 satellite. About 80 million years ago, before the extinction of the dinosaurs, Brukkaros exploded much like Mount St Helens did. Only a dry climate like southwest Africa’s could it have survived so long without eroding away. In the late 1920s, the Smithsonian Institution and the National Geographic Society operated the Brukkaros Solar Observatory on its southern rim—one of the first attempts to precisely measure the sun’s radiation over time. Across the northeast corner of this view you can see the edge of the Kalahari desert’s plateau.
  
-MapBoxSatellite-ClingmansDome: 
+MapBoxSatellite-ClingmansDome.jpg: 
 Fall colors descend on the Great Smoky Mountains from the peaks to the valleys. The winding road leads to Clingmans Dome, the highest point in Tennessee, which is chilly due to its elevation and supports a small but dense evergreen forest. The “smoke” of the Great Smoky Mountains is really a combination of fog and natural chemicals released by the forest. Clingmans Dome is also the highest point of the beautiful Appalachian Trail, which follows the ridge that runs from west to east, then northeast near the road. (Landsat 8 image, October 26th.)
 
 MapBoxSatellite-Glaciers.jpg: 
