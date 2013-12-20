@@ -1,0 +1,55 @@
+Mapbox photo captions
+
+Mapbox-Earth.jpg:
+Mapbox cracked the 3D globe software market wide open with the release of Mapbox Earth, a free and open source iOS app combining open source 3D map rendering libraries with stunning Mapbox Satellite imagery.
+
+Mapbox-ElectionMaps.jpg:
+USA Today and Washington Post Election 2012 maps designed by Mapbox
+
+Mapbox-Evernote.png: 
+The team at Evernote used Mapbox Streets to create a complementary street level map for the detailed views in their desktop app. The result is an impressive map with a design that blends in perfectly with the rest of the app.
+
+Mapbox-FinancialTimes.jpg: 
+Financial Times Syria Feature With Mapbox Branded Maps 
+
+Mapbox-Foursquare.jpg:
+foursquare relaunched all of its web maps using Mapbox Streets global street-level map, which is based on OpenStreetMap data. This is a huge endorsement of the value of open data and shows the fantastic growth potential of the OpenStreetMap community.
+
+Mapbox-GitHub.png:
+GitHub goes Mapbox with Custom Marker Colors.
+
+Mapbox-Graphic.png:
+Iconic Mapbox graphic of a satellite orbiting Earth.
+
+Mapbox-Pinterest.jpg:
+Place Pins combine the beautiful imagery of a travel magazine with the utility of an interactive map that you can share with friends. Mapbox's vector tiles let Pinterest design a one-of-a-kind world map that can scale to unlimited traffic yet continuously stay up-to-date with OpenStreetMap.
+ 
+Mapbox-Team1.jpg: 
+The Mapbox garage, in Washington, DC.
+
+Mapbox-Team2.jpg: 
+Eric Gunderson and Dane Springmeyer using the bar in the Mapbox garage as a standup desk.
+
+MapboxMobile-BassProShops.jpg: 
+When national outdoor outfitter Bass Pro Shops wanted to let users of MyGuide go off the grid, they used Mapbox to allow them to take their backcountry terrain maps with them. MyGuide uses both custom terrain maps as well as the Mapbox iOS SDK to allow unlimited offline map use.  
+
+MapboxMobile-MapOfTheDead.jpg: 
+Zombie apocalypse survival is the game; Mapbox is the enabling technology. Through a combination of highly custom maps that fit the game world's theme in immaculate detail and the openness of the Mapbox iOS SDK allowing tailoring of UI behavior, Map of the Dead is a showcase of the complete flexibility available to location-based games with Mapbox. 
+ 
+MapboxMobile-NatGeoCityGuides.jpg: 
+National Geographic used Mapbox to create a gorgeous custom style to the maps in this iOS travel app. The designers of the app envisioned a look that literally would not have been possible without Mapbox. 
+
+MapboxOutdoors.jpg: 
+Mapbox has begun a major update to Mapbox Terrain. We are designing Mapbox Outdoors specifically for outdoor apps, making it easy to find running trails, check out ski slopes, or visualize your bike rides.
+
+MapboxSatellite-BrukkarosMountain.jpg: 
+This is Brukkaros Mountain, in Namibia, as seen by the USGS’s Landsat 8 satellite. About 80 million years ago, before the extinction of the dinosaurs, Brukkaros exploded much like Mount St Helens did. Only a dry climate like southwest Africa’s could it have survived so long without eroding away. In the late 1920s, the Smithsonian Institution and the National Geographic Society operated the Brukkaros Solar Observatory on its southern rim—one of the first attempts to precisely measure the sun’s radiation over time. Across the northeast corner of this view you can see the edge of the Kalahari desert’s plateau.
+ 
+MapboxSatellite-ClingmansDome.jpg: 
+Fall colors descend on the Great Smoky Mountains from the peaks to the valleys. The winding road leads to Clingmans Dome, the highest point in Tennessee, which is chilly due to its elevation and supports a small but dense evergreen forest. The “smoke” of the Great Smoky Mountains is really a combination of fog and natural chemicals released by the forest. Clingmans Dome is also the highest point of the beautiful Appalachian Trail, which follows the ridge that runs from west to east, then northeast near the road. (Landsat 8 image, October 26th.)
+
+MapboxSatellite-Glaciers.jpg: 
+This is the confluence of the Fisher and Mellor glaciers in Antarctica. The region was only mapped in detail in the 1950s, and remains one of the most remote places which scientists still regularly visit. The blue areas are bare ice, where wind has scoured the glacier clean of snow. Researchers sometimes find meteorites lying on the surface in these areas, brought to the surface by the flow of the glaciers.
+
+MapboxStreets-SanFrancisco.jpg: 
+View of San Francisco by Mapbox Streets.
