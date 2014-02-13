@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="679.99988"
-   height="300"
+   width="610"
+   height="180"
    id="svg116693"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="mapbox.svg"
+   sodipodi:docname="mapbox.svgh.svg"
    inkscape:export-filename="/Users/saman/work_repos/mapbox-press-assets/logos/mapbox-logo/mapbox-1360-white.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="445.95627"
-     inkscape:cy="117.12742"
+     inkscape:cx="247.0584"
+     inkscape:cy="88.127428"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -39,8 +39,8 @@
      fit-margin-bottom="0"
      inkscape:window-width="1434"
      inkscape:window-height="790"
-     inkscape:window-x="382"
-     inkscape:window-y="152"
+     inkscape:window-x="223"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -54,7 +54,7 @@
        snapvisiblegridlinesonly="true" />
     <sodipodi:guide
        orientation="1,0"
-       position="349.99991,240"
+       position="309.99991,190"
        id="guide3811" />
   </sodipodi:namedview>
   <metadata
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -73,7 +73,7 @@
      inkscape:label="white"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-478.57153,-335.21899)">
+     transform="translate(-518.57153,-405.21899)">
     <g
        id="g3024"
        transform="matrix(1.8,0,0,1.8,-589.25715,-637.19828)"
@@ -117,7 +117,7 @@
      id="layer2"
      inkscape:label="blue"
      style="display:none"
-     transform="translate(-100.00009,39.999988)">
+     transform="translate(-140.00009,-30.00002)">
     <g
        inkscape:export-ydpi="300"
        inkscape:export-xdpi="300"
